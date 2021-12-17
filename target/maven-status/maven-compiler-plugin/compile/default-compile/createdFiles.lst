@@ -1,0 +1,16 @@
+com\usa\ciclo4\elCacharrero\controller\UserController.class
+com\usa\ciclo4\elCacharrero\service\UserService.class
+com\usa\ciclo4\elCacharrero\service\OrderService.class
+com\usa\ciclo4\elCacharrero\crudRepository\UserCrudRepository.class
+com\usa\ciclo4\elCacharrero\ElCacharreroApplication.class
+com\usa\ciclo4\elCacharrero\controller\OrderController.class
+com\usa\ciclo4\elCacharrero\crudRepository\OrderCrudRepository.class
+com\usa\ciclo4\elCacharrero\repository\OrderRepository.class
+com\usa\ciclo4\elCacharrero\controller\CloneController.class
+com\usa\ciclo4\elCacharrero\repository\UserRepository.class
+com\usa\ciclo4\elCacharrero\model\User.class
+com\usa\ciclo4\elCacharrero\model\Clone.class
+com\usa\ciclo4\elCacharrero\model\Order.class
+com\usa\ciclo4\elCacharrero\crudRepository\CloneCrudRepository.class
+com\usa\ciclo4\elCacharrero\repository\CloneRepository.class
+com\usa\ciclo4\elCacharrero\service\CloneService.class
